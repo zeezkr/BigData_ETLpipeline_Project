@@ -1,6 +1,6 @@
-## BigData_ETLpipeline_Project
+# BigData_ETLpipeline_Project
 
-# Introduction:
+## Introduction:
 
 The increasing availability of air quality data presents an opportunity to apply Big Data Analytics for deeper 
 insights and predictive modeling. Traditional methods of air quality analysis often struggle with 
@@ -13,7 +13,7 @@ multiple air quality parameters across various locations. By employing data prep
 feature engineering, and statistical analysis, we aim to extract 
 meaningful patterns and develop predictive models for air pollution forecasting.
 
-# Problem Definition:
+## Problem Definition:
 
 The challenge of air quality forecasting lies in integrating diverse datasets from multiple sources, 
 each with varying formats, measurement units, and inconsistencies. Traditional methods struggle 
